@@ -1,0 +1,5 @@
+*.pcap
+*.dat
+*.mmdb
+venv/
+__pycache__/
